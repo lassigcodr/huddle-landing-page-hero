@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: [Click here](https://ctrlwisdom.github.io/frontendmentor-newbie-challenge/huddle-landing-page-hero/index.html)
+- Live Site: [Click here](https://ctrlwisdom.github.io/huddle-landing-page-hero/index.html)
 
 ## My process
 
