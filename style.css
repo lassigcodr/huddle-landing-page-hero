@@ -87,6 +87,7 @@ button:hover {
     body {
         height: 100vh;
         padding: 20px 40px 10px 40px;
+        background-image: url('images/bg-desktop.svg');
     }
     .logo-image {
         width: 260px;
