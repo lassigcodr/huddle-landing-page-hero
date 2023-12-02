@@ -57,6 +57,7 @@ button {
     box-shadow: 0 2px 3px rgba(0, 0, 0, .3);
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
+    font-size: 18px;
 }
 
 button:hover {
@@ -85,15 +86,17 @@ button:hover {
 
 @media (min-width: 600px) {
     body {
-        padding: 20px 40px 10px 40px;
+        padding: 40px 40px 10px 40px;
         background-image: url('images/bg-desktop.svg');
     }
     .logo-image {
+        margin-left: 50px;
         width: 180px;
     }
     .container {
         padding: 50px;
         display: flex;
+        justify-content: space-between;
     }
     .hero-image {
         width: 50%;
