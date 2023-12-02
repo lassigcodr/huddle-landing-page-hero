@@ -86,7 +86,7 @@ button:hover {
 @media (min-width: 600px) {
     body {
         height: 100vh;
-        padding: 30px 60px 10px 60px;
+        padding: 20px 40px 10px 40px;
     }
     .logo-image {
         width: 260px;
@@ -102,15 +102,15 @@ button:hover {
     }
     .hero-text {
         text-align: left;
-        padding: 80px;
+        padding: 40px;
         height: max-content;
     }
     .title {
-        font-size: 48px;
+        font-size: 42px;
     }
     .body {
         margin-bottom: 30px;
-        font-size: 19px;
+        font-size: 18px;
     }
     .social-icon {
         justify-content: right;
